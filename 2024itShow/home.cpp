@@ -7,7 +7,6 @@ using namespace sf;
 
 int main()
 {
-
     Font font;
     font.loadFromFile("º≥∑π¿”.ttf");
 
